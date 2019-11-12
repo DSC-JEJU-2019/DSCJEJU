@@ -3,6 +3,10 @@ DSCJEJU 메인 repo 입니다.
 
 <br/>
 
+------
+
+<br/>
+
 ## 작성 규칙
 
 > 협업의 편의성을 높이기 위해 작성 규칙들을 지정해두고 있습니다.
@@ -25,6 +29,8 @@ DSCJEJU 메인 repo 입니다.
 
 ------
 
+<br/>
+
 ### 홍보용 자료
 
 - [홍보자료 위치](./ASSETS/PUBLICIZE/)
@@ -33,6 +39,8 @@ DSCJEJU 메인 repo 입니다.
 
 ------
 
+<br/>
+
 ### CHANGE LOG
 
 - [슬랙 변경 사항](./CHANGES/SLACK/CHANGES.md)
@@ -40,6 +48,8 @@ DSCJEJU 메인 repo 입니다.
 <br/>
 
 ------
+
+<br/>
 
 ## CONTRIBUTORS
 
