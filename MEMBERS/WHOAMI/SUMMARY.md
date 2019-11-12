@@ -6,7 +6,7 @@
 
 <div>
 	<a href=".\WHOTHAT\KimSeungHyun.md"  target = "_blank">
-		<img src=".\IMAGE\KimSeungHyun.jpg" style="float:left; Zoom: 25%" />
+		<img src=".\IMAGE\KimSeungHyun.jpg" align="left" width="300" />
 	</a>
 </div>
 
@@ -24,7 +24,7 @@
 
 
 
-####                                             
+####                                                         
 
-####                                              김승현
+####                                                                    김승현
 
