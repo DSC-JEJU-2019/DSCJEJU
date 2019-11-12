@@ -1,30 +1,9 @@
 # 운영진 소개
 
+![](./IMAGE/KimSeungHyun.jpg){:width="300px" height="300px"}
+#### 김대남
+---
+![](./IMAGE/aerain.jpg){:width="300px" height="300px"}
+#### 이청길
 
-
-
-
-<div>
-	<a href=".\WHOTHAT\KimSeungHyun.md"  target = "_blank">
-		<img src=".\IMAGE\KimSeungHyun.jpg" align="left" width="300" />
-	</a>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-####                                                         
-
-####                                                                    김승현
 
