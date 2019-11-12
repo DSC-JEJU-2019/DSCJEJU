@@ -26,4 +26,8 @@ DSCJEJU 메인 repo 입니다.
 
 
 
-##
+## CONTRIBUTORS
+
+### [운영진 소개](./MEMBERS/WHOAMI/SUMMARY.md)
+
+#
