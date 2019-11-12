@@ -13,23 +13,27 @@ DSCJEJU 메인 repo 입니다.
 
 - [CHANGE LOG 작성 규칙](./RULES/SLACK/SLACK_CHANGES_WRITE_RULE.md)
 
+
+
 ### Git
 
 - [깃 커밋 작성 규칙](./RULES/GIT/COMMIT/COMMIT_RULE.md)
 
 
 
+------
+
 ### 홍보용 자료
 
 - [홍보자료 위치](./ASSETS/PUBLICIZE/)
+
+------
 
 ### CHANGE LOG
 
 - [슬랙 변경 사항](./CHANGES/SLACK/CHANGES.md)
 
-
-
-
+------
 
 ## CONTRIBUTORS
 
