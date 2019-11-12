@@ -8,8 +8,6 @@
 
 "본 Repository는 DSC-JEJU 에 관한 소개 / 관련 규칙 등의 메인 Repository 입니다."
 
-
-
 <br/>
 
 ------
