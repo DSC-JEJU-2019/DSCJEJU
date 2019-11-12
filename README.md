@@ -31,6 +31,10 @@ DSCJEJU 메인 repo 입니다.
 
 <br/>
 
+## ASSETS
+
+<br/>
+
 ### 홍보용 자료
 
 - [홍보자료 위치](./ASSETS/PUBLICIZE/)
@@ -38,6 +42,10 @@ DSCJEJU 메인 repo 입니다.
 <br/>
 
 ------
+
+<br/>
+
+## 기타 내용
 
 <br/>
 
