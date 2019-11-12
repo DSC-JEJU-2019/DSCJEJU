@@ -4,6 +4,8 @@
 
 ## [DSC-JEJU 페이지](https://sites.google.com/view/dsc-jeju/)
 
+## [전체 일정 캘린더](https://calendar.google.com/calendar/embed?src=sqvqqe0jbt0c1c6p6arp09ni2g%40group.calendar.google.com&ctz=Asia%2FSeoul)
+
 <br/>
 
 "본 Repository는 DSC-JEJU 에 관한 소개 / 관련 규칙 등의 메인 Repository 입니다."
