@@ -1,5 +1,14 @@
-# DSCJEJU
-DSCJEJU 메인 repo 입니다.
+# [DSCJEJU](https://dsc-jeju-2019.github.io/DSCJEJU/)
+
+<br/>
+
+**[DSC-JEJU 페이지](https://sites.google.com/view/dsc-jeju/)**
+
+**[전체 일정 캘린더](https://calendar.google.com/calendar/embed?src=sqvqqe0jbt0c1c6p6arp09ni2g%40group.calendar.google.com&ctz=Asia%2FSeoul)**
+
+<br/>
+
+"본 Repository는 DSC-JEJU 에 관한 소개 / 관련 규칙 등의 메인 Repository 입니다."
 
 <br/>
 
@@ -7,7 +16,7 @@ DSCJEJU 메인 repo 입니다.
 
 <br/>
 
-## 작성 규칙
+# 작성 규칙
 
 > 협업의 편의성을 높이기 위해 작성 규칙들을 지정해두고 있습니다.
 >
@@ -15,29 +24,15 @@ DSCJEJU 메인 repo 입니다.
 
 <br/>
 
-### 슬랙
+## 슬랙
 
-- [CHANGE LOG 작성 규칙](./RULES/SLACK/SLACK_CHANGES_WRITE_RULE.md)
-
-<br/>
-
-### Git
-
-- [깃 커밋 작성 규칙](./RULES/GIT/COMMIT/COMMIT_RULE.md)
+- **[CHANGE LOG 작성 규칙](./RULES/SLACK/SLACK_CHANGES_WRITE_RULE.md)**
 
 <br/>
 
-------
+## Git
 
-<br/>
-
-## ASSETS
-
-<br/>
-
-### 홍보용 자료
-
-- [홍보자료 위치](./ASSETS/PUBLICIZE/)
+- **[깃 커밋 작성 규칙](./RULES/GIT/COMMIT/COMMIT_RULE.md)**
 
 <br/>
 
@@ -45,13 +40,19 @@ DSCJEJU 메인 repo 입니다.
 
 <br/>
 
-## 기타 내용
+# ASSETS
 
 <br/>
 
-### CHANGE LOG
+## 작업 내용
 
-- [슬랙 변경 사항](./CHANGES/SLACK/CHANGES.md)
+- **[완료된 작업 모음 Repo](https://github.com/DSC-JEJU-2019/Project_Summary)**
+
+<br/>
+
+## 홍보용 자료
+
+- **[홍보자료 위치](./ASSETS/PUBLICIZE/)**
 
 <br/>
 
@@ -59,10 +60,24 @@ DSCJEJU 메인 repo 입니다.
 
 <br/>
 
-## CONTRIBUTORS
+# 기타 내용
+
+<br/>
+
+## CHANGE LOG
+
+- **[슬랙 변경 사항](./CHANGES/SLACK/CHANGES.md)**
+
+<br/>
+
+------
+
+<br/>
+
+# CONTRIBUTORS
+
+<br/>
 
 ### [운영진 소개](./MEMBERS/WHOAMI/SUMMARY.md)
 
 <br/>
-
-#
