@@ -28,6 +28,7 @@ DSCJEJU 메인 repo 입니다.
 
 
 - [슬랙 작성 규칙](./RULES/SLACK/SLACK_CHANGES_WRITE_RULE.md)
+- [깃 커민 작성 규칙](./RULES/GIT/COMMIT/COMMIT_RULE.md)
 
 
 
