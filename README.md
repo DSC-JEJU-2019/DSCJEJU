@@ -9,6 +9,8 @@ DSCJEJU 메인 repo 입니다.
 >
 > 이와 관련된 작업을 진행하시기전에 꼭한번 읽어보시고 따라주시기 바랍니다.
 
+
+
 ### 슬랙
 
 - [CHANGE LOG 작성 규칙](./RULES/SLACK/SLACK_CHANGES_WRITE_RULE.md)
