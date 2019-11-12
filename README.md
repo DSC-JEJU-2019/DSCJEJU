@@ -16,7 +16,7 @@
 
 <br/>
 
-## 작성 규칙
+# 작성 규칙
 
 > 협업의 편의성을 높이기 위해 작성 규칙들을 지정해두고 있습니다.
 >
@@ -24,13 +24,13 @@
 
 <br/>
 
-### 슬랙
+## 슬랙
 
 - **[CHANGE LOG 작성 규칙](./RULES/SLACK/SLACK_CHANGES_WRITE_RULE.md)**
 
 <br/>
 
-### Git
+## Git
 
 - **[깃 커밋 작성 규칙](./RULES/GIT/COMMIT/COMMIT_RULE.md)**
 
@@ -40,17 +40,17 @@
 
 <br/>
 
-## ASSETS
+# ASSETS
 
 <br/>
 
-### 작업 내용
+## 작업 내용
 
 - **[완료된 작업 모음 Repo](https://github.com/DSC-JEJU-2019/Project_Summary)**
 
 <br/>
 
-### 홍보용 자료
+## 홍보용 자료
 
 - **[홍보자료 위치](./ASSETS/PUBLICIZE/)**
 
@@ -60,11 +60,11 @@
 
 <br/>
 
-## 기타 내용
+# 기타 내용
 
 <br/>
 
-### CHANGE LOG
+## CHANGE LOG
 
 - **[슬랙 변경 사항](./CHANGES/SLACK/CHANGES.md)**
 
@@ -74,7 +74,9 @@
 
 <br/>
 
-## CONTRIBUTORS
+# CONTRIBUTORS
+
+<br/>
 
 ### [운영진 소개](./MEMBERS/WHOAMI/SUMMARY.md)
 
