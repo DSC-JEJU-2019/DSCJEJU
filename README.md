@@ -2,9 +2,9 @@
 
 <br/>
 
-## [DSC-JEJU 페이지](https://sites.google.com/view/dsc-jeju/)
+**[DSC-JEJU 페이지](https://sites.google.com/view/dsc-jeju/)**
 
-## [전체 일정 캘린더](https://calendar.google.com/calendar/embed?src=sqvqqe0jbt0c1c6p6arp09ni2g%40group.calendar.google.com&ctz=Asia%2FSeoul)
+**[전체 일정 캘린더](https://calendar.google.com/calendar/embed?src=sqvqqe0jbt0c1c6p6arp09ni2g%40group.calendar.google.com&ctz=Asia%2FSeoul)**
 
 <br/>
 
