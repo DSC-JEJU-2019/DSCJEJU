@@ -6,7 +6,7 @@
 
 <div>
 	<a href=".\WHOTHAT\KimSeungHyun.md"  target = "_blank">
-		<img src=".\IMAGE\KimSeungHyun.jpg" style="float: left; width : 300px;" />
+		<img src=".\IMAGE\KimSeungHyun.jpg" style="float:left; Zoom: 25%" />
 	</a>
 </div>
 
