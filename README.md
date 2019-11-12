@@ -24,13 +24,13 @@
 
 ### 슬랙
 
-- [CHANGE LOG 작성 규칙](./RULES/SLACK/SLACK_CHANGES_WRITE_RULE.md)
+- **[CHANGE LOG 작성 규칙](./RULES/SLACK/SLACK_CHANGES_WRITE_RULE.md)**
 
 <br/>
 
 ### Git
 
-- [깃 커밋 작성 규칙](./RULES/GIT/COMMIT/COMMIT_RULE.md)
+- **[깃 커밋 작성 규칙](./RULES/GIT/COMMIT/COMMIT_RULE.md)**
 
 <br/>
 
@@ -42,9 +42,15 @@
 
 <br/>
 
+### 작업 내용
+
+- **[완료된 작업 모음 Repo](https://github.com/DSC-JEJU-2019/Project_Summary)**
+
+<br/>
+
 ### 홍보용 자료
 
-- [홍보자료 위치](./ASSETS/PUBLICIZE/)
+- **[홍보자료 위치](./ASSETS/PUBLICIZE/)**
 
 <br/>
 
@@ -58,7 +64,7 @@
 
 ### CHANGE LOG
 
-- [슬랙 변경 사항](./CHANGES/SLACK/CHANGES.md)
+- **[슬랙 변경 사항](./CHANGES/SLACK/CHANGES.md)**
 
 <br/>
 
@@ -71,5 +77,3 @@
 ### [운영진 소개](./MEMBERS/WHOAMI/SUMMARY.md)
 
 <br/>
-
-#
