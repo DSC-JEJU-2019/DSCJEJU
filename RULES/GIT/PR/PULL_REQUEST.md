@@ -25,6 +25,7 @@ git clone git@github.com:<username>/<repository-name>.git
 ```
 
 * clone을 실시한 뒤에는 원래 레포지토리와 싱크를 맞추기 위해 다음 명령줄을 입력하여 연결합니다.
+
 ```bash
 # upstream 추가
 $ git remote add upstream https://github.com/DSC-JEJU-2019/<repository-name>.git
@@ -39,6 +40,7 @@ upstream https://github.com/DSC-JEJU-2019/DSCJEJU.git (push)
 
 * git remote -v를 입력했을때 다음 형태로 4줄이 올바르게 보여진다면 성공한 것입니다.
 * 본래 레포지토리와 싱크를 하기 위해선 다음 구문을 실행합니다.
+
 ```bash
 $ git fetch upstream
 $ git merge upstream/master
