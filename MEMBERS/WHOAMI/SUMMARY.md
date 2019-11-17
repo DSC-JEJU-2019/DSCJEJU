@@ -21,4 +21,9 @@
 ![](./IMAGE/YangSeongWon.jpg){:width="300px" height="300px"} 
 #### [양성원](./WHOTHAT/YangSeongWon)
 ---
-
+![](./IMAGE/KimSeHun.jpg){:width="300px" height="300px"} 
+#### [김세훈](./WHOTHAT/KimSeHun)
+---
+![](./IMAGE/WonDongHun.jpg){:width="300px" height="300px"} 
+#### [원동훈](./WHOTHAT/WonDongHun)
+---
